@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with a strong background in computer engineering and experience in developing innovative solutions.
 
-- 🌱 I’m currently learning advanced React and Node.js, and cloud computing with AWS.
+- 🌱 I’m currently learning advanced React and Node.js.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about web development, machine learning, and anything tech-related.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arushee-tomar-330ba31a0/) | [Email](mailto:arushee2019@gmail.com)
