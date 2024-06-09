@@ -1,6 +1,5 @@
 # Hi there, I'm Arushee Tomar 👋
-
-![GitHub Banner](https://raw.githubusercontent.com/aruto-code/aruto-code/master/banner.png)
+🌟 Full Stack Developer | 🎓 Computer Engineering Graduate | 🌱 Lifelong Learner
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with a strong background in computer engineering and experience in developing innovative solutions.
