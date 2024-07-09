@@ -1,5 +1,5 @@
 # Hi there, I'm Arushee Tomar 👋
-🌟 Full Stack Developer | 🎓 Computer Engineering Graduate | 🌱 Lifelong Learner
+🌟 Full Stack Developer | 🎓 Computer Engineering Undergraduate | 🌱 Lifelong Learner
 
 
 ## 🚀 About Me
