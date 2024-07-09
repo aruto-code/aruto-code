@@ -1,7 +1,6 @@
 # Hi there, I'm Arushee Tomar 👋
 🌟 Full Stack Developer | 🎓 Computer Engineering Graduate | 🌱 Lifelong Learner
 
-![Profile Views](https://komarev.com/ghpvc/?username=aruto-code&color=blue)
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer with a strong background in computer engineering and experience in developing innovative solutions.
